@@ -1,7 +1,7 @@
 
 title: Resume Igor Nikonorov
-url: ''
-baseurl: '' #change it according to your repository name
+url: 'cv.inik.tk'
+baseurl: 'nikonorovi.github.io' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -27,5 +27,5 @@ github: nikonorovi
 
 
 # Tracker
-analytics: UA-83979019-1
+#analytics: 
 #Update all the sections by editing the files inside _includes folder.
